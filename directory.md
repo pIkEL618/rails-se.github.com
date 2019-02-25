@@ -158,6 +158,10 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
   <li>
     <a href="mailto:peter@lind.be">Supermåne</a>
   </li>
+  
+  <li>
+  <a href="https://www.storytel.com">Storytel</a> (<a href="https://jobs.storytel.com/">Vacancies</a>)
+  </li>
 
   <li>
     <a href="http://www.teamtailor.com">Teamtailor</a>
